@@ -169,3 +169,14 @@ uvicorn app:app --host 0.0.0.0 --port 8080 --reload
 
 
 Este proyecto fue desarrollado como parte del Curso de Ciencia de Datos.
+
+Evidencias de android studio
+![Image](https://github.com/user-attachments/assets/a76b8347-0db6-432d-a3a1-24f673182293)
+![image](https://github.com/user-attachments/assets/b085771c-dd93-4b2b-acda-396fd0203ba3)
+![image](https://github.com/user-attachments/assets/da65377b-d99a-48b6-bca4-0c454bb6b82d)
+![image](https://github.com/user-attachments/assets/9e301ffb-2627-4d63-8c0a-26804e0d8b9e)
+![image](https://github.com/user-attachments/assets/583caa4a-d71f-4a7a-801c-0f2112279e84)
+
+Varios erroes en el xml, y errores visuales con los text view, hizo dificil la tarea de formular o vizualizar las necesidades del codigo
+
+
