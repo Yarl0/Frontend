@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Fragmentes.SavedRecipesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView android:layout_height="match_parent" android:layout_width="match_parent"
+        tools:ignore="UselessParent">
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_recipe_title"
+                style="@style/RecipeTitle"/>
+
+            <ImageView
+                android:id="@+id/iv_recipe_image" android:layout_height="match_parent" android:layout_width="match_parent"/>
+
+            <TextView
+                android:id="@+id/tv_recipe_ingredients"
+                style="@style/RecipeText"/>
+
+            <TextView
+                android:id="@+id/tv_recipe_steps"
+                style="@style/RecipeText"/>
+
+            <Button
+                android:id="@+id/btn_save_recipe"
+
+                android:text="@string/guardar_receta" android:layout_height="match_parent" android:layout_width="match_parent"/>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

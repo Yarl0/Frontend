@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">recipeai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="subir_imagen">Subir imagen</string>
+    <string name="guardar_receta">Guardar receta</string>
+    <string name="todo">TODO</string>
+</resources>
